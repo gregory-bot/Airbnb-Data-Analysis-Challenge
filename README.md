@@ -1,6 +1,7 @@
-# Airbnb Data Analysis Challenge
+# Airbnb Data Challenge
 
-Welcome to the Airbnb Data Analysis Challenge! This repository contains a set of Python scripts and tests designed to solve analytical problems based on Airbnb listings and reviews data. The project is structured to simulate a LeetCode-style problem set, allowing you to practice and refine your data analysis skills.
+Airbnb Data interview.
+repository contains a set of Python scripts and tests designed to solve analytical problems based on Airbnb listings and reviews data
 
 ## Project Structure
 
@@ -85,5 +86,4 @@ Unit tests for all tasks are provided in `tests/tests_main.py`. The tests valida
    ```
 
 ## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
+MIT License.
